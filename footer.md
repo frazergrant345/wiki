@@ -1,1 +1,1 @@
-{% include warning.html content="This is my note. All the content I type here is treated as a single paragraph. <br/><br/> Now I'm typing on a  new line." %}
+{% include warning.html content="This project is something I'm doing in my spare time. This may not be updated much." %}
