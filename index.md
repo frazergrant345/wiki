@@ -2,11 +2,7 @@
 title: Home
 layout: home
 ---
-[Install]
+## Welcome to the Artemis-OS wiki.
 
-
-
-## Test Section
-[Install]: install.md
-
-
+> [!IMPORTANT]
+>This project is something I'm doing in my spare time. This may not be updated much. 
