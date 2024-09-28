@@ -4,5 +4,6 @@ layout: home
 ---
 ## Welcome to the Artemis-OS wiki.
 
-> [!IMPORTANT]
->This project is something I'm doing in my spare time. This may not be updated much. 
+
+
+{% include_relative footer.md %}
