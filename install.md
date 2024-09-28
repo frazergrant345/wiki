@@ -1,6 +1,6 @@
 ---
 title: Install
-layout: home
+layout: default
 ---
 
 ## Install
