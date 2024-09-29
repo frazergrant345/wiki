@@ -10,3 +10,6 @@ Install instructions for Artemis OS.
 [Download ISO](https://github.com/Artemis-OS-Linux/Artemis-OS/wiki/Download-ISO)
 
 {% include_relative footer.md %}
+
+
+> notes
